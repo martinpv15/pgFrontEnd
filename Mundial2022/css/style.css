@@ -1,13 +1,16 @@
 *{
     box-sizing: border-box;
     font-family: 'Ubuntu', sans-serif;
+    margin: 0%;
 }
 
 header{
     background-color:rgb(32, 31, 31);
+    padding: 10px;
 }
 nav{
     background-color: darkgrey;   
+    padding: 2px;
 }
 
 .titulo_de_header{
@@ -16,6 +19,7 @@ nav{
 
 button{
     background-color: beige;
+    border-radius: 10%;
 }
 
 body{
@@ -166,6 +170,10 @@ video{
 
 footer{
     background-color: rgb(74, 72, 72);
-    margin-bottom: 0px;
-    padding: 0.1em;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    padding-top: 10px;
+    text-align: center;
 }

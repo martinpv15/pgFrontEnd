@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-image: url(/fotos/planeta\ tierra.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
